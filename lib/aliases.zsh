@@ -40,6 +40,8 @@ alias be='bundle exec'
 alias sublime2='open -a ~/Applications/Sublime\ Text.app'
 alias atom='open -a /Applications/Atom.app'
 alias rubymine='open -a /Applications/RubyMine.app'
+alias sourcetree='open -a /Applications/SourceTree.app'
+
 # alias eb='source ./.aws_credential; eb'
 
 alias aws_208="export AWS_CREDENTIAL_FILE=/Users/aki_/.elasticbeanstalk/aws_credential_file.208; echo aws_credential_file.208"
