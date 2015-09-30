@@ -41,6 +41,7 @@ alias sublime2='open -a ~/Applications/Sublime\ Text.app'
 alias atom='open -a /Applications/Atom.app'
 alias rubymine='open -a /Applications/RubyMine.app'
 alias sourcetree='open -a /Applications/SourceTree.app'
+alias st='open -a /Applications/SourceTree.app'
 
 # alias eb='source ./.aws_credential; eb'
 
